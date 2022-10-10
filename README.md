@@ -1,7 +1,10 @@
-## CS655 Assignment1 - Part II
+## CS655 Assignment1
+
+project: part1
+Project2: part2
 
 ### Implementation
-1. Enter the forder: pa1part1/project/src
+1. Enter the forder: project/src (Project2/src)
 2. Run commend: javac EchoServer.java
 3. Run commend: java EchoServer <port number>
 4. Run commend: javac EchoClient.java (open another window to run client program)
